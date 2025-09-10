@@ -1,0 +1,7 @@
+123|nana|Math,Computer
+ac1512bd|122|Math,Art
+83fddba9|areej|problem solving,web development
+f4ea6b96|sarah|Ethical hacking,cyber security
+99736ee1|wano|cyber security, digital marketing
+66dea2bc|dukqfe|Data Security,cyber security
+bfc77338|reeshu| digital marketing,Video game developer
